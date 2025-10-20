@@ -30,5 +30,3 @@ Single-page React application that builds printable, downloadable, and shareable
 
 ---
 
-## Repo Structure
-
